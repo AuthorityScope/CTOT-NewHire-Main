@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Libre+Franklin:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Questrial:400);
 
 
 
@@ -20,35 +20,35 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Libre Franklin', sans-serif;
+  font-family: 'Questrial', sans-serif;
   font-size: 5.4rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 8.64rem;
 }
 .display-2 {
-  font-family: 'Libre Franklin', sans-serif;
+  font-family: 'Questrial', sans-serif;
   font-size: 4rem;
 }
 .display-2 > .mbr-iconfont {
   font-size: 6.4rem;
 }
 .display-4 {
-  font-family: 'Libre Franklin', sans-serif;
+  font-family: 'Questrial', sans-serif;
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Libre Franklin', sans-serif;
+  font-family: 'Questrial', sans-serif;
   font-size: 2rem;
 }
 .display-5 > .mbr-iconfont {
   font-size: 3.2rem;
 }
 .display-7 {
-  font-family: 'Libre Franklin', sans-serif;
+  font-family: 'Questrial', sans-serif;
   font-size: 1.5rem;
 }
 .display-7 > .mbr-iconfont {
@@ -658,7 +658,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Libre Franklin', sans-serif;
+  font-family: 'Questrial', sans-serif;
   font-size: 1.5rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -1766,33 +1766,135 @@ body {
 .cid-rvaYorORTB {
   background-image: url("../../../assets/images/about-us-collaboration-community-872956-2000x1335.jpg");
 }
-.cid-rvb2sULTPp {
+.cid-rvnm8oSIKH {
   padding-top: 30px;
-  padding-bottom: 30px;
-  background-image: url("../../../assets/images/texas-1656861-1920-1920x1258.jpg");
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/ctot-corporateoffice-1-704x359.jpg");
 }
-@media (min-width: 992px) {
-  .cid-rvb2sULTPp .mbr-figure {
-    padding-left: 4rem;
-  }
+.cid-rvnm8oSIKH .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rvnm8oSIKH .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
 }
 @media (max-width: 991px) {
-  .cid-rvb2sULTPp .mbr-figure {
-    padding-top: 3rem;
+  .cid-rvnm8oSIKH .mbr-figure img {
+    width: 100% !important;
   }
 }
-.cid-rvb2sULTPp .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
+.cid-rvmWQVseSG {
+  background: #232323;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(45deg, #232323, #ffffff);
 }
-@media (min-width: 992px) {
-  .cid-rvb2sULTPp .media-container-row .mbr-figure {
-    padding-left: 0;
-    padding-right: 4rem;
+.cid-rvmWQVseSG .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rvmWQVseSG .video-block {
+    width: 100% !important;
   }
 }
-.cid-rvb2sULTPp .mbr-section-title {
+.cid-rvmVdx47un {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/texas-1656861-1922-1920x1258.jpg");
+}
+.cid-rvmVdx47un .mbr-section-subtitle {
+  color: #ffffff;
+  font-weight: 300;
+}
+.cid-rvmVdx47un .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+}
+.cid-rvmVdx47un .card_cont {
+  -o-transition: all .5s;
+  -ms-transition: all .5s;
+  -moz-transition: all .5s;
+  -webkit-transition: all .5s;
+  transition: all .5s;
+  -o-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  position: absolute;
+  top: 0px;
+  left: 0px;
   text-align: center;
+  background-color: #eee;
+}
+.cid-rvmVdx47un .card-front {
+  z-index: 2;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.cid-rvmVdx47un .card-front img {
+  height: 100%;
+  min-width: 100%;
+  width: auto;
+}
+.cid-rvmVdx47un .card_back {
+  width: 100%;
+  height: 100%;
+  padding: 30px 30px;
+  color: #ffffff;
+  background-color: #ea0a2b;
+  z-index: 1;
+  margin: 0;
+  text-align: center;
+  overflow: hidden;
+  -o-transform: rotateY(-180deg);
+  -ms-transform: rotateY(-180deg);
+  -moz-transform: rotateY(-180deg);
+  -webkit-transform: rotateY(-180deg);
+  transform: rotateY(-180deg);
+}
+.cid-rvmVdx47un .card {
+  min-height: 300px;
+}
+.cid-rvmVdx47un .card:hover .card-front {
+  z-index: 1;
+  -o-transform: rotateY(180deg);
+  -ms-transform: rotateY(180deg);
+  -moz-transform: rotateY(180deg);
+  -webkit-transform: rotateY(180deg);
+  transform: rotateY(180deg);
+}
+.cid-rvmVdx47un .card:hover .card_back {
+  z-index: 2;
+  -o-transform: rotateY(0deg);
+  -ms-transform: rotateY(0deg);
+  -moz-transform: rotateY(0deg);
+  -webkit-transform: rotateY(0deg);
+  transform: rotateY(0deg);
+}
+.cid-rvmVdx47un .builderCard .card_back {
+  border-bottom-left-radius: 100px;
+}
+.cid-rvmVdx47un .builderCard .card_cont {
+  -o-backface-visibility: hidden;
+  -ms-backface-visibility: hidd;
+  -moz-backface-visibility: visible;
+  -webkit-backface-visibility: visible;
+  backface-visibility: visible;
+}
+.cid-rvmVdx47un .mbr-section-title {
+  text-align: center;
+}
+.cid-rvmVdx47un .mbr-section-title B {
+  color: #ffffff;
 }
 .cid-rvbeNkKz2l {
   padding-top: 15px;
@@ -1871,7 +1973,7 @@ body {
 .cid-rvbvwxDST8 {
   padding-top: 15px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/ctot-corporateoffice-704x359.jpg");
+  background-image: url("../../../assets/images/mbr.jpg");
 }
 @media (min-width: 992px) {
   .cid-rvbvwxDST8 .mbr-figure {
