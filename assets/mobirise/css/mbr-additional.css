@@ -1869,7 +1869,7 @@ body {
   }
 }
 .cid-rvbvwxDST8 {
-  padding-top: 45px;
+  padding-top: 15px;
   padding-bottom: 0px;
   background-image: url("../../../assets/images/ctot-corporateoffice-704x359.jpg");
 }
@@ -1896,6 +1896,9 @@ body {
   text-align: right;
 }
 .cid-rvbvwxDST8 H3 {
+  text-align: left;
+}
+.cid-rvbvwxDST8 H1 {
   text-align: left;
 }
 .cid-rvbnMCAGAB {
