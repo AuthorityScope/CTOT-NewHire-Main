@@ -1870,18 +1870,12 @@ body {
 }
 .cid-rvbvwxDST8 {
   padding-top: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/ctot-corporateoffice-704x359.jpg");
-}
-.cid-rvbvwxDST8 .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
 }
 @media (min-width: 992px) {
   .cid-rvbvwxDST8 .mbr-figure {
     padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
@@ -1896,13 +1890,13 @@ body {
 }
 .cid-rvbvwxDST8 .mbr-text,
 .cid-rvbvwxDST8 .mbr-section-btn {
-  text-align: right;
+  text-align: left;
 }
 .cid-rvbvwxDST8 DIV {
   text-align: right;
 }
 .cid-rvbvwxDST8 H3 {
-  text-align: right;
+  text-align: left;
 }
 .cid-rvbnMCAGAB {
   padding-top: 30px;
