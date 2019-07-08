@@ -1763,13 +1763,9 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rvFjLJHbFz {
-  padding-top: 120px;
-  padding-bottom: 60px;
-}
-.cid-rvFjLJHbFz .mbr-text,
-.cid-rvFjLJHbFz .mbr-section-btn {
-  text-align: center;
+.cid-rvFLBti3nR {
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 .cid-rvFjW3uuw6 {
   padding-top: 15px;
@@ -1808,6 +1804,9 @@ body {
   color: #232323;
   font-size: 17px;
 }
+.cid-rvFjW3uuw6 .team-item .item-caption {
+  background: #efefef;
+}
 .cid-rvFjW3uuw6 H2 {
   color: #232323;
 }
@@ -1815,7 +1814,7 @@ body {
   color: #232323;
 }
 .cid-rvFjW3uuw6 .item-role P {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-rvFjW3uuw6 .item-role B {
   color: #232323;
