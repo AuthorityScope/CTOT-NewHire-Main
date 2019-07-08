@@ -1763,17 +1763,13 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rvFLBti3nR {
+.cid-rvFjW3uuw6 {
   padding-top: 30px;
   padding-bottom: 30px;
-}
-.cid-rvFjW3uuw6 {
-  padding-top: 15px;
-  padding-bottom: 15px;
   background-image: url("../../../assets/images/city-skyline-719982-960-720-960x509.jpg");
 }
 .cid-rvFjW3uuw6 .mbr-section-subtitle {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-rvFjW3uuw6 .media-row {
   display: -webkit-flex;
@@ -1822,26 +1818,11 @@ body {
 .cid-rvFjW3uuw6 .item-role I {
   color: #232323;
 }
-.cid-rvFk2lXVqR {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
+.cid-rvFjW3uuw6 B {
+  color: #ffffff;
 }
-.cid-rvFk2lXVqR .title {
-  margin-bottom: 2rem;
-}
-.cid-rvFk2lXVqR .mbr-section-subtitle {
+.cid-rvFjW3uuw6 .item-name B {
   color: #232323;
-}
-.cid-rvFk2lXVqR a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-rvFk2lXVqR a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-rvFk2lXVqR textarea.form-control {
-  min-height: 188px;
 }
 .cid-rvFs8EIQl9 {
   padding-top: 45px;
