@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CTOT-New Hire ",
-    "currentPage": "NewHireMain.html",
+    "currentPage": "SuccessPath.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -728,10 +728,10 @@
         }
       ]
     },
-    "NewHireMain.html": {
+    "SuccessPath.html": {
       "settings": {
         "main": true,
-        "title": "New Hire Main",
+        "title": "SuccessPath",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
