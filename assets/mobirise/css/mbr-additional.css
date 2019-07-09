@@ -1810,10 +1810,17 @@ body {
   color: #ffffff;
 }
 .cid-rvL0F2p2rV DIV {
-  color: #232323;
+  color: #ffffff;
+  text-align: center;
 }
 .cid-rvL0F2p2rV B {
   color: #ffffff;
+}
+.cid-rvL0F2p2rV .item-name {
+  color: #232323;
+}
+.cid-rvL0F2p2rV .item-role P {
+  color: #232323;
 }
 .cid-rvFs8EIQl9 {
   padding-top: 45px;
