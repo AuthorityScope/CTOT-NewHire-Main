@@ -1839,8 +1839,8 @@ body {
   text-align: center;
 }
 .cid-rvFrZQ7Vmw {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 @media (max-width: 767px) {
@@ -1901,6 +1901,9 @@ body {
     -webkit-justify-content: center;
     justify-content: center;
   }
+}
+.cid-rvFrZQ7Vmw .copyright > p {
+  color: #232323;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
