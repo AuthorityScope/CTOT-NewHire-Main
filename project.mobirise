@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CTOT-New Hire ",
-    "currentPage": "page2.html",
+    "currentPage": "Austin.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1661,7 +1661,7 @@
         }
       ]
     },
-    "page2.html": {
+    "Austin.html": {
       "settings": {
         "meta_descr": "",
         "title": "Austin - Leadership Team",
